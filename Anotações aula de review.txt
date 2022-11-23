@@ -1,0 +1,12 @@
+1-  Dar ‘git clone’ e inserir a URL no Git Bash
+
+2- Com o arquivo .md criado e o repositório aparecendo na área de trabalho, crie uma nova pasta direto na área de trabalho para ver como isso altera o Git Bash
+3 - Inserir comando ‘git status’ > o resultado é que a nova pasta não está commitada
+
+4 - Utilizar comando ‘git add’ para commitar a nova pasta
+
+5 - De novo, ‘git status’
+
+6 - Estando tudo certo, realizar commit com a tag ‘-m’ > git commit -m “…” > e inserir nas aspas a descrição do que foi alterado
+
+7 - Realizar ‘git push origin main’ para subir as alterações commitadas
